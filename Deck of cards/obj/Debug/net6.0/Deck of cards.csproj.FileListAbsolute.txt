@@ -1,0 +1,15 @@
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\bin\Debug\net6.0\Deck of cards.exe
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\bin\Debug\net6.0\Deck of cards.deps.json
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\bin\Debug\net6.0\Deck of cards.runtimeconfig.json
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\bin\Debug\net6.0\Deck of cards.dll
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\bin\Debug\net6.0\Deck of cards.pdb
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.csproj.AssemblyReference.cache
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.AssemblyInfoInputs.cache
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.AssemblyInfo.cs
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.csproj.CoreCompileInputs.cache
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.dll
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\refint\Deck of cards.dll
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.pdb
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\Deck of cards.genruntimeconfig.cache
+C:\Users\winn\source\repos\Deck of cards\Deck of cards\obj\Debug\net6.0\ref\Deck of cards.dll
